@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../assets/img/Group 112.png";
 
 const Header = () => {
