@@ -25,7 +25,7 @@ const Products = () => {
                 )}
                 <div className="w-full h-45 flex items-center justify-center mb-4">
                   <img
-                    src={`${product.image}`}
+                    src={`/src/assets/${product.image}`}
                     alt={product.title}
                     className="max-h-full max-w-full object-contain"
                   />
