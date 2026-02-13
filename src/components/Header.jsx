@@ -2,7 +2,7 @@ import logo from "../assets/img/Group 112.png";
 
 const Header = () => {
   const handleClick = () => {
-    alert("Get Started bosildi 🚀");
+    alert("Get Started bosildi!");
   };
   return (
     <div>
